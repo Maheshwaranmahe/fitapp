@@ -18,6 +18,9 @@
 .nav-item{
     padding-left: 20px;
 }
+.home{
+    margin-top: 50px;
+}
 .home h1{
     font-weight: bolder;
 }
